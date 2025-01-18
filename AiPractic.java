@@ -16,6 +16,6 @@ public class AiPractic {
         }
         double average = (double) sum / array.length;
         System.out.println("Average: " + average);
-        System.out.println("Izmena" + " " + "test!!!");
+        System.out.println("Izmena" + " " + "test!!!333456");
         }
 }
